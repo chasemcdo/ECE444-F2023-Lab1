@@ -6,3 +6,6 @@ This repo follows the examples demonstrated in [this repo](https://github.com/mi
 
 ## Activity 2
 ![Hello Name](a2.png)
+
+## Activity 3
+![Date and Time Information](a3.png)
