@@ -9,3 +9,12 @@ This repo follows the examples demonstrated in [this repo](https://github.com/mi
 
 ## Activity 3
 ![Date and Time Information](a3.png)
+
+## Activity 4
+![Base Homepage](a4-1.png)
+
+![Name and email filled](a4-2.png)
+
+![Failed Email Validation](a4-3.png)
+
+![Changed email and name flash](a4-4.png)
